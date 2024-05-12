@@ -1,5 +1,5 @@
 
-# Markdown Generator 
+# Note Taker
 
 ![banner](./assets/images/github-header-image.png) <br>
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -25,12 +25,13 @@ Hello, this is a simple program that lets users take notes and store them on a w
 - [License](License) 
 
 ## Installation
-N/A
+This app is deployed on render but if you would like to download this, you can refer to my github link near the bottom of this readme
 
 ## Usage
-Once installed on your computer run the file in the terminal and fill out the form. If you would like to test it out you can press enter for the default answers.
+vist the deployed link in the links section or click [Here](https://note-taker-a40k.onrender.com/) to see the app deployed on Render
 
 ## Tests 
+using insomnia you can download this repository from git hub and you can test various API requests
 
 ### Introduction to Testing
 Testing is an essential part of maintaining code quality and ensuring that our project works as expected across different environments and scenarios.
@@ -39,7 +40,7 @@ Testing is an essential part of maintaining code quality and ensuring that our p
 As of right now we dont have any testing features for this project but we plan to add more features and APIs to allow a wider range of markdown generaton. We also plan to add more commands such as /help.
 
 ## Links
-- [Screencastify]()
+- [Render](https://note-taker-a40k.onrender.com/)
 
 ## API
 N/A
@@ -78,6 +79,8 @@ If you're interested in contributing to the project, please read our Contributin
 
 - [Github banner generator](https://leviarista.github.io/github-profile-header-generator/)
 - [Github markdown-badges](https://ileriayo.github.io/markdown-badges/)
+- [insomnia REST](https://insomnia.rest)
+- [Render](https://render.com)
 
 
 ## License
